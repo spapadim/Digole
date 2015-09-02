@@ -1,0 +1,68 @@
+###########################################
+# Syntax Coloring Map For Digole
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+DigoleSerial 	KEYWORD1
+DigoleI2C 	KEYWORD1
+DigoleSoftSPI 	KEYWORD1
+DigoleSPI 	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+write	 	KEYWORD2
+begin	 	KEYWORD2
+clearScreen	KEYWORD2
+setBacklight	KEYWORD2
+setContrast	KEYWORD2
+setRotation	KEYWORD2
+setFont		KEYWORD2
+setColor	KEYWORD2
+setBackgroundColor	KEYWORD2
+setTextPosition	KEYWORD2
+setTextPositionOffset	KEYWORD2
+backspace	KEYWORD2
+setGraphicsPosition	KEYWORD2
+setDrawMode	KEYWORD2
+drawLine	KEYWORD2
+drawLineTo	KEYWORD2
+drawCircle	KEYWORD2
+drawRect	KEYWORD2
+drawBitmap	KEYWORD2
+moveArea	KEYWORD2
+setDrawWindow	KEYWORD2
+resetDrawWindow	KEYWORD2
+clearDrawWindow	KEYWORD2
+uploadStartScreen	KEYWORD2
+uploadUserFont	KEYWORD2
+calibrateTouchscreen	KEYWORD2
+readTouchscreen	KEYWORD2
+# TODO
+
+###########################################
+# Constants (LITERAL1)
+###########################################
+ROT0		LITERAL1
+ROT90		LITERAL1
+ROT180		LITERAL1
+ROT270		LITERAL1
+BITMAP_8	LITERAL1
+BITMAP_256	LITERAL1
+BITMAP_262K	LITERAL1
+CHARACTER	LITERAL1
+PIXEL		LITERAL1
+TOUCH_DOWN	LITERAL1
+TOUCH_DOWN_NONBLOCKING	LITERAL1
+TOUCH_UP	LITERAL1
+MODE_COPY	LITERAL1
+MODE_NOT	LITERAL1
+MODE_OR		LITERAL1
+MODE_XOR	LITERAL1
+MODE_AND	LITERAL1
+CHIP_ST7920	LITERAL1
+CHIP_KS0108	LITERAL1
+CHIP_ST7565	LITERAL1
+
